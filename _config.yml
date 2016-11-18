@@ -7,10 +7,10 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Pricenometry
-tagline:          'Follow. Analyze. Report.'
-description:      'Track anything on the internet with a price tag. Easy to Use. Data updated daily. Free Trial Available. Follow us on Twitter <a href="https://twitter.com/pricenometry" target="_blank">@Pricenometry</a> or <a href="https://www.facebook.com/Pricenometry" target="_blank">Facebook</a>.'
-url:              http://about.pricenometry.com
+title:            Michael Bastos
+tagline:          'Online Resume and Blog'
+description:      'Self & University taught Engineer, Data Scientist & Former Marine working as a Chief Technology Officer in San Diego. Follow me on Twitter <a href="https://twitter.com/bastosmichael" target="_blank">@bastosmichael</a> or <a href="https://www.facebook.com/michaelbastos" target="_blank">Facebook</a>.'
+url:              https://michaelbastos.com
 baseurl:          /
 
 author:
@@ -23,4 +23,4 @@ paginate:         5
 version:          0.1
 
 github:
-  repo:           https://github.com/pricenometry
+  repo:           https://github.com/bastosmichael
