@@ -1,0 +1,16 @@
+---
+layout: post
+title: WP-Chef now has Redis Deployment
+---
+
+As many of you may have known from my last article titled WordPress + Vagrant + Chef = Magic, I have spent the better part of the last two months migrating over many of my custom WordPress DevOps deployment scripts to WP-Chef, a new github project designed to make it quick and easy to deploy fast, complete and working WordPress installations across a variety of platforms including your local machine (Virtual Box), Amazon Web Services (EC2) and soon Rackspace and VMWare using Vagrant and it’s provider plugin system.
+
+After promising to deploy an Nginx cookbook to go along with our original Apache recipe, I’m happy to anounce that I’m also releasing a Redis version of the original Nginx cookbook that utilizes the predis php library in order to fully cache user interactions with the site thanks to Eric Mann’s original post and it works great right out of the box using a Micro Instance on AWS.
+
+As you can see from the tests I ran using blitz.io, Redis was able to successfully cache all of the pages on this blog in less than 60 seconds in order to quickly ramp up and display the results to over 12,545 hits made in just 60 seconds with a 0.66% error rate. As for Timeouts listed, I equate those more with the lack of memory in a Micro Instance but it helped me prove a point that it can be done.
+
+If you would like to try out WP-Chef for yourself, simply follow the instructions on the README and you should have a fully production ready site up and running in no time. Don’t worry about the domain or DNS settings when setting up a WP-Chef site, It’ll give you the EC2 or localhost site address to go to at the end of the Chef install and you can take the IP for the EC2 address and add it to your domain’s A Name and this WordPress Install will map it regardless of the EC2 URL you used when you started. This allows for building stage sites quickly without the need to attach them to a domain until you’re done migrating, moving or building a site. Feel free to message me on twitter @bastosmichael if you have any questions about this.
+
+So what else is on the horizon for WP-Chef, well first we need to really test these new cookbooks out intensely plus I need to make some fixes to the Redis cookbook so that it’ll work with more than just Ubuntu Server. One test I have not yet done is see how WP-Chef handles WordPress Multisite and I may very well end up having a cookbook just for that in the near future. Our goal here is to democratize WordPress Premium level hosting and give both speed and simplicity to both development and production deployment that can one day hopefully match the big boys over at WordPress VIP.
+
+The most important thing I ask is for feedback and participation, the better I can make the installation instructions and the more cookbooks I can add the more useful this project will be for everyone. Feel free to share your thoughts over at Advanced WordPress Facebook or Google Plus groups if you have any ideas for me for a next cookbook. I will also be releasing a Distributed cookbook much like I discussed in EC2 or no EC2: The great WordPress server debate as well as a Development cookbook that will include many of the really cool tools currently available in VVV. Thanks and feedback is welcome.
