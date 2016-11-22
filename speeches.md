@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Speeches
+title: Public Speaking
 ---
 
 I have 10 years of public speaking experience during my time in the Marines and in a number of Open Source Technology Conferences. Since 2009 I’ve spoken at the following technology events:

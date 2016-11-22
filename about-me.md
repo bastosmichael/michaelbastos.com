@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Me
+title: Who Am I?
 ---
 
 I was originally born in Rio de Janeiro, Brazil and moved to Florida at the age of six. Growing up in the early days of computers and the commercial internet, I spent years teaching myself programming. Upon graduating high school in 2001, I joined the United States Marine Corps and eventually received my first Navy and Marine Corps Achievement Medal for my willingness to see a project through no matter the hours or self sacrifice required.

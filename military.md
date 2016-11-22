@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Military
+title: Military Record
 ---
 
 ## Commands and Units
