@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Common Sense SEO Part 4: Conversion
+title: Common Sense SEO Part 4 - Conversion
 ---
 
 Getting your website found by people is fun and seeing the number of unique visitors visiting your site per day is a great moral booster. You’re writing articles and producing videos (creating remarkable content), you’ve learned the essence of what SEO is by now (Optimize), and you’re using all the social media sites and running email and pay per click campaigns (Promote). At the end of the day, however, you are not doing this for fun. You are also not in this for traffic. The goal is quality sales leads and customers, so let’s focus now on converting as much of your traffic as possible to leads and customers. There are a ton of ways of doing this online and many more depending on how you want your site to run.

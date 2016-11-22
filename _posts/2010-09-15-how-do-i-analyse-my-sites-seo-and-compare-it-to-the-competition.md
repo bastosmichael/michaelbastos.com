@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Common Sense SEO Part 5: Analysis
+title: Common Sense SEO Part 5 - Analysis
 ---
 
 The second to last part of proper SEO is doing an Analysis of your own site compared to others. Check out how you compare to other similar websites. You need to monitor your traffic rank as well and see if your optimizations and new content are showing benefits. You will be able to draw conclusions from your competitors and other sites that are related to your business. There are hundreds of sites that will review your site’s data for you such as Grader.com or Alexa.com. Google Analytics also helps you but you can’t really use it to check out your competition. The easiest way to find out who your competitor is would be by searching Google for the keyword you want and finding the guy that’s at the top of the page. Then do a search on one of the sites I talked about and see where they are ranked and how many inbound links as well as indexed pages they have on Google. This will give you an idea of what to shoot for in the long run and are the most important part of your analysis strategy.

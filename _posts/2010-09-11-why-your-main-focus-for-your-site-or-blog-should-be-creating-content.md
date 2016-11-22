@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Common Sense SEO Part 1: Creating Content
+title: Common Sense SEO Part 1 - Creating Content
 ---
 
 Every web page has the potential to rank well in search engines and draw traffic from other sources, like social media sites and the blogosphere. Of course, whether a page draws traffic (and links) depends on whether it’s optimized and how remarkable (useful, interesting, etc.) it is. But in general, most pages do “ok” and contribute to the cause, so it’s both a quality and a quantity game. The more content you have on your site, the more there is for Google to search through and catalog and the more likely it is that someone will try to link to your site because they found something worth linking to. The word blog has been misused a bit over the years because people picture want to be journalist writing articles about food they liked or products they didn’t, what it really should be looked at is a way to create content that people will want to come back to and share with others again and again. So whether you call it a blog, a product showcase, a newsletter, a press release, a customer support forum, a favorite’s list (ie, recipes, books, product reviews, etc) or even a what’s new section, at the heart of it means you need to create something of value for each site that makes it more than just a glorified catalog of your companies products or services. This is really the best way to get links legitimately because you are telling Google that you have more to offer than other sites and businesses in your industry.

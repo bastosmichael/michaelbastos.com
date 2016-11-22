@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Common Sense SEO Part 2: Optimization
+title: Common Sense SEO Part 2 - Optimization
 ---
 
 Optimizing your website’s content is a key step, however, to ensure you give your valuable content the best chance possible of drawing traffic from the web. In essence, this section is about maximizing your ROC – return on content. Using tools like WordPress is great because it streamlines your site’s overall code and does a lot of the optimizing for you. Everyone involved with SEO always talks about focusing on your meta keywords, that would have been valuable a year or two ago but since then Google has focused less on that and more on page titles and descriptions. Make sure that your page title isn’t just your company name or About Us. Ensure your titles are attractive and appealing and consist of the key words you want to push for. I can talk about this more in depth later on but the most important thing to remember is that Google’s focus is on the Page Title and Description because it’s what users see when they search on Google.

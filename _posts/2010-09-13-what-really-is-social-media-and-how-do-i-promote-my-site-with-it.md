@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Common Sense SEO Part 3: Promotion & Social Media
+title: Common Sense SEO Part 3 - Promotion & Social Media
 ---
 
 Now that you are producing remarkable content and optimizing it for search engines and other channels, you are ready to start promoting your content. There are many ways to promote a website but only a few are cheap. The reason why Google makes as much money as it does is because it takes advertising and creates a system where by you don’t have to pay for ads that you don’t use. The pay per clicks way of doing web ads has been around for over a decade but only Google mixing it with their heavy traffic on their website and providing it to other sites with a system that reads the site’s content and gives you the best ads compared could really master internet advertising. I know a lot of people that use this method of promoting their sites and it’s fine if you have the money but can get expensive. This system is usually great for online retailers trying to sell a product or service businesses trying to sell directly to someone in need of their services. Google keywords work in an auction system so basically the more popular the keywords are the more expensive they will be to purchase for ad space. Everybody knows this but what most people don’t know are the downfalls of this sort of advertising, the first being that you can’t control who clicks on your ads.
