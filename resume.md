@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Recent Work History
+title: Work History
 ---
 
 <b>OBJECTIVE:</b> Results-driven Polyglot Software Engineer with a Computer Science and Military background working in San Diego remotely.
